@@ -24,11 +24,11 @@
 
 <!-- 💜 Update this section anytime you start a new project! -->
 
-> **Project Name:** _[Add your project name here]_
+> **Project Name:** _introduce yourself website_
 >
-> **What it does:** _A short, sweet description of the problem it solves._
+> **What it does:** _Using a digital tool to express myself to classmates with images and words._
 >
-> **Tech Stack:** `Java` `Python` `...`
+> **Tech Stack:** `Html` `CSS`
 >
 > **Status:** 🛠️ In Progress
 >
@@ -37,7 +37,7 @@
 <details>
 <summary>✨ Why I'm building this</summary>
 <br>
-Add a sentence or two about what excites you about this project — what you're learning, or what problem sparked the idea.
+I am excited to share my interests, the program I am studying, and other representations of me through my niche of coding.
 </details>
 
 ---
