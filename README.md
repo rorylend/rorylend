@@ -1,4 +1,12 @@
-## Hi there 👋
+## Hey there! 👋
+
+I am Rory, a CS student in the President's Honors Program at MCC!
+
+After I get my Associates, I am planning on transferring to Arizona State University 
+to complete a Bachelor's degree in Software Engineering.
+
+My focus is on building a deep understanding of software development, algorithmic logic, systems network structures, and emerging AI tech. 
+I enjoy using technology to solve complex problems and design efficient, scalable code!
 
 <!--
 **rorylend/rorylend** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
