@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Rory! 👋💻✨</h1>
+<h1 align="center">Hey, I'm Rory! 👋💻✨</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=FF6FB5&center=true&vCenter=true&width=500&lines=CS+Student+%40+MCC;Future+Software+Engineer+%40+ASU+%F0%9F%8E%93;Building+scalable%2C+efficient+code+%F0%9F%9A%80;Exploring+AI+%2B+Systems+%2B+Algorithms+%F0%9F%A7%A0" alt="Typing SVG" />
@@ -50,6 +50,8 @@ I am excited to share my interests, the program I am studying, and other represe
   <img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipseide&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
 </p>
 
 ---
