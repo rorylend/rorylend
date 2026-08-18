@@ -33,13 +33,6 @@
 > **Status:** 🛠️ In Progress
 >
 > 🔗 [View the repo](#)
-
-<details>
-<summary>✨ Why I'm building this</summary>
-<br>
-I am excited to share my interests, the program I am studying, and other representations of me through my niche of coding.
-</details>
-
 ---
 
 ### 🛠️ Tech Toolbox
