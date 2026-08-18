@@ -17,7 +17,7 @@
 - 🎯 Pursuing an **A.S. in Computer Science** at MCC, then transferring to **Arizona State University** for a **B.S. in Software Engineering**
 - 🧩 Passionate about **algorithmic logic**, **systems & network structures**, and **emerging AI technology**
 - 💡 I love using tech to solve complex problems and design **efficient, scalable** code
-- ❤️ _I have 2 public repositories!_
+- ❤️ _I have 3 public repositories!_
 
 ---
 
