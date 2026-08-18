@@ -54,15 +54,6 @@ Add a sentence or two about what excites you about this project — what you're 
 
 ---
 
-### 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR-USERNAME&show_icons=true&theme=radical&hide_border=true&title_color=FF6FB5&icon_color=FFB6D9" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR-USERNAME&theme=radical&hide_border=true&background=0D1117&ring=FF6FB5&fire=FFB6D9" width="48%" />
-</p>
-
----
-
 ### 💌 Let's Connect
 
 <p align="center">
