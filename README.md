@@ -27,7 +27,7 @@
 
 > **Project Name:** null
 >
-> **What it does:** _nul._
+> **What it does:** _null._
 >
 > **Tech Stack:** `null`
 >
