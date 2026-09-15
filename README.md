@@ -25,13 +25,13 @@
 
 <!-- 💜 Update this section anytime you start a new project! -->
 
-> **Project Name:** null
+> **Project Names:** Private repositories for coding projects for CSC110 and CSC205 classes
 >
-> **What it does:** _null._
+> **What it does:** _Organizes projects showcasing my skills privately only to share with future employers or for those curious about my code._
 >
-> **Tech Stack:** `null`
+> **Tech Stack:** `Java`
 >
-> **Status:** 🛠️ null
+> **Status:** 🛠️ In Progress
 >
 <!-- 🔗 [View the repo](#)-->
 ---
