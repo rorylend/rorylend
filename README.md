@@ -17,7 +17,7 @@
 - 🎯 Pursuing an **A.S. in Computer Science** at MCC, then transferring to **Arizona State University** for a **B.S. in Software Engineering**
 - 🧩 Passionate about **algorithmic logic**, **systems & network structures**, and **emerging AI technology**
 - 💡 I love using tech to solve complex problems and design **efficient, scalable** code
-- ❤️ _I have 4 public repositories!_
+- ❤️ _I have 0 public repositories!_
 
 ---
 
@@ -25,13 +25,13 @@
 
 <!-- 💜 Update this section anytime you start a new project! -->
 
-> **Project Name:** _introduce yourself website_
+> **Project Name:** null
 >
-> **What it does:** _Using a digital tool to express myself to classmates with images and words._
+> **What it does:** _nul._
 >
-> **Tech Stack:** `Html` `CSS`
+> **Tech Stack:** `null`
 >
-> **Status:** 🛠️ In Progress
+> **Status:** 🛠️ null
 >
 <!-- 🔗 [View the repo](#)-->
 ---
